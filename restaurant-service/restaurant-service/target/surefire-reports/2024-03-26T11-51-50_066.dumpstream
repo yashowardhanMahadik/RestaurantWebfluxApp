@@ -1,0 +1,5 @@
+# Created at 2024-03-26T11:51:50.276
+Boot Manifest-JAR contains absolute paths in classpath 'G:\projcetWebflux\restaurant-service\restaurant-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
